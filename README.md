@@ -1,15 +1,15 @@
 #angular-full-stack-dev-33 
 Este repositorio corresponde al ejercicio realizado en la formación de Angular Full Stack Developer, concretamente a la unidad 33 UD33 - Angulas Jose A González Alcántara
 
-[Descaraga](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "Descarga")
+![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
 
-[Instalacion node](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "Instalacion node")
+![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
 
-[Instalacion angular](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "Instalacion  angular")
+![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
 
-[ng serve -o shell](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "ng serve -o shell")
+![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
 
-[localhost:4200](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "localhost:4200")
+![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
 
 
 # HelloWorldAngular
