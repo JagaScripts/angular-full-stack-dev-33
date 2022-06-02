@@ -11,7 +11,7 @@ Este repositorio corresponde al ejercicio realizado en la formación de Angular 
 
 ![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/ng-serve-o-shell.jpg)
 
-![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/ng-new-hello-world-angular.jpg)
+![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/ng-serve-o.jpg)
 
 # HelloWorldAngular
 
