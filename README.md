@@ -1,3 +1,17 @@
+#angular-full-stack-dev-33 
+Este repositorio corresponde al ejercicio realizado en la formación de Angular Full Stack Developer, concretamente a la unidad 33 UD33 - Angulas Jose A González Alcántara
+
+[Descaraga](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "Descarga")
+
+[Instalacion node](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "Instalacion node")
+
+[Instalacion angular](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "Instalacion  angular")
+
+[ng serve -o shell](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "ng serve -o shell")
+
+[localhost:4200](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md "localhost:4200")
+
+
 # HelloWorldAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
