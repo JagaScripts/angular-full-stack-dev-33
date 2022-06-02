@@ -1,16 +1,17 @@
 #angular-full-stack-dev-33 
 Este repositorio corresponde al ejercicio realizado en la formación de Angular Full Stack Developer, concretamente a la unidad 33 UD33 - Angulas Jose A González Alcántara
 
-![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
+![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/Captura%20de%20pantalla%202022-06-01%20105751.jpg)
 
-![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
+![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/nodejs.jpg)
 
-![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
+![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/npm-i-g-angular.jpg)
 
-![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
+![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/ng-new-hello-world-angular.jpg)
 
-![image](https://github.com/JagaScripts/java-full-stack-dev-u14/blob/master/ejercicio_uno/README.md)
+![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/ng-serve-o-shell.jpg)
 
+![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/ng-new-hello-world-angular.jpg)
 
 # HelloWorldAngular
 
