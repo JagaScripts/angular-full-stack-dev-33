@@ -1,5 +1,5 @@
 #angular-full-stack-dev-33 
-Este repositorio corresponde al ejercicio realizado en la formación de Angular Full Stack Developer, concretamente a la unidad 33 UD33 - Angulas Jose A González Alcántara
+Este repositorio corresponde al ejercicio realizado en la formación de Angular Full Stack Developer, concretamente a la unidad 33 UD33 - Angular Jose A González Alcántara
 
 ![image](https://github.com/JagaScripts/angular-full-stack-dev-33/blob/main/imagenes/Captura%20de%20pantalla%202022-06-01%20105751.jpg)
 
